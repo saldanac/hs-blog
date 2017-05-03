@@ -1,3 +1,5 @@
 # hs-blog
 
-BLOG en Laravel 5.2
+LARAVEL: Blog Personal
+
+Hugo Saldana
